@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-Spring-teaching-1
 venue: "Penn State, Department of Statistics" 
-date: 2022-01
+date: 2022-01-01
 location: "State College"
 ---
 
