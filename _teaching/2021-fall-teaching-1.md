@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Penn State, Department of Statistics"
-date: "Fall 2021"
+date: 2021-08
 location: "State College"
 ---
 
