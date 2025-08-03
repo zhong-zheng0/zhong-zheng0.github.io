@@ -7,4 +7,4 @@ venue: "Penn State, Department of Statistics"
 location: "State College"
 ---
 
-I work as a teaching assistant and lab instructor.
+I worked as a teaching assistant and lab instructor.
