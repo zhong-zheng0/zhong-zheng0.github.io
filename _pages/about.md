@@ -12,7 +12,7 @@ I am a postdoctoral researcher in the [Department of Statistics and Data Science
 
 In 2026, I will join the University of Notre Dame as an Assistant Professor of Statistics.
 
-You can find my CV [here](../assets/cv_08032025.pdf).
+You can find my CV [here](../assets/cv_08262025.pdf).
 
 My research focuses on developing new methods and theoretical frameworks to address key challenges in:
 - Reinforcement learning  
